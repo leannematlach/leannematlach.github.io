@@ -11,3 +11,9 @@
 	color: green;
 }
 
+.navigation {
+	list-syle: none;
+}
+.navigation-link {
+	font-size: large;
+}
