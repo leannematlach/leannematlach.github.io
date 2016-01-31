@@ -35,4 +35,6 @@
 	background-color: green;
 }#red-border {
 	border: 1px solid #e12727;
+}.small-margin {
+	margin: 1em;
 }
