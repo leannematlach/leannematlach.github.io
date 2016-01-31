@@ -23,3 +23,8 @@
 .color-blue {
 	color: #504faf;
 }
+#background-red {
+	background-color: red;
+}#large-border {
+	padding: 1em 2em 1em 2em;
+}
