@@ -38,3 +38,7 @@
 }.small-margin {
 	margin: 1em;
 }
+#center-title {
+	margin: auto;
+	width: 300px;
+}
