@@ -38,7 +38,8 @@
 }.small-margin {
 	margin: 1em;
 }
-#center-title {
+.center-title {
 	margin: auto;
-	width: 300px;
+	width: 600px;
+	text-align: centr;
 }
